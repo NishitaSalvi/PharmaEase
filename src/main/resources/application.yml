@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/pharmacy_db
     username: root
-    password: Nishu@0342
+    password: your password
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
